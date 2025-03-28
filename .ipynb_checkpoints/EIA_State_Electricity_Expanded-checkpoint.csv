@@ -1,0 +1,589 @@
+period,state,stateDescription,estimated-losses,facility-direct,full-service-providers,total-elect-indust,estimated-losses-units,facility-direct-units,full-service-providers-units,total-elect-indust-units
+2021,NM,New Mexico,1194686,16108,25377635,25393743,megawatthours,megawatthours,megawatthours,megawatthours
+2021,KY,Kentucky,3505762,128540,74388446,74516986,megawatthours,megawatthours,megawatthours,megawatthours
+2021,NH,New Hampshire,511267,,5772903,10867268,megawatthours,megawatthours,megawatthours,megawatthours
+2021,NE,Nebraska,1521538,4262,32336908,32341170,megawatthours,megawatthours,megawatthours,megawatthours
+2021,ND,North Dakota,1075629,,22863107,22863107,megawatthours,megawatthours,megawatthours,megawatthours
+2021,NC,North Carolina,6383881,151528,135541549,135693077,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MT,Montana,703889,,12115692,14961561,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MS,Mississippi,2258954,,48015364,48015364,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MO,Missouri,3658477,,77763041,77763041,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MN,Minnesota,3132786,810388,65778780,66589168,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MI,Michigan,4695863,377830,90795892,99813281,megawatthours,megawatthours,megawatthours,megawatthours
+2021,ME,Maine,545018,93148,6424326,11584674,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MD,Maryland,2790043,113318,30771800,59303974,megawatthours,megawatthours,megawatthours,megawatthours
+2021,MA,Massachusetts,2389885,391326,17784051,50798388,megawatthours,megawatthours,megawatthours,megawatthours
+2021,LA,Louisiana,4272730,,90819346,90819346,megawatthours,megawatthours,megawatthours,megawatthours
+2021,NJ,New Jersey,3437708,686731,41750952,73070466,megawatthours,megawatthours,megawatthours,megawatthours
+2020,US,United States,207053152,13944310,3144897974,3717674481,megawatthours,megawatthours,megawatthours,megawatthours
+2020,TX,Texas,23773836,7592484,419270783,426863267,megawatthours,megawatthours,megawatthours,megawatthours
+2020,TN,Tennessee,5291172,46477,94957411,95003888,megawatthours,megawatthours,megawatthours,megawatthours
+2020,SD,South Dakota,707086,,12695845,12695845,megawatthours,megawatthours,megawatthours,megawatthours
+2020,SC,South Carolina,4273821,,76737176,76737176,megawatthours,megawatthours,megawatthours,megawatthours
+2020,RI,Rhode Island,409439,33277,4067070,7351541,megawatthours,megawatthours,megawatthours,megawatthours
+2020,PA,Pennsylvania,7781649,43788,51023267,139720837,megawatthours,megawatthours,megawatthours,megawatthours
+2020,OR,Oregon,2841483,6168,48234702,51019313,megawatthours,megawatthours,megawatthours,megawatthours
+2020,OK,Oklahoma,3469714,,62299305,62299305,megawatthours,megawatthours,megawatthours,megawatthours
+2020,OH,Ohio,7942849,198436,44059538,142615199,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NY,New York,7819844,775949,73309132,140406632,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NV,Nevada,2129409,81297,33082904,38233899,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NM,New Mexico,1379945,17226,24759929,24777155,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NJ,New Jersey,4009888,599782,39997879,71998221,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NH,New Hampshire,595568,,5564975,10693529,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NE,Nebraska,1736076,2595,31168941,31171536,megawatthours,megawatthours,megawatthours,megawatthours
+2020,ND,North Dakota,1215218,,21819452,21819452,megawatthours,megawatthours,megawatthours,megawatthours
+2020,NC,North Carolina,7262030,1452,130389528,130390980,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MT,Montana,812255,,11664564,14584179,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MS,Mississippi,2588783,,46482040,46482040,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MO,Missouri,4217488,,75725712,75725712,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MN,Minnesota,3567474,594042,63460564,64054606,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MI,Michigan,5403007,393637,88672937,97011906,megawatthours,megawatthours,megawatthours,megawatthours
+2020,ME,Maine,631948,108592,6244700,11346740,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MD,Maryland,3209607,119008,29323992,57629040,megawatthours,megawatthours,megawatthours,megawatthours
+2020,MA,Massachusetts,2785234,132587,19254072,50009341,megawatthours,megawatthours,megawatthours,megawatthours
+2020,LA,Louisiana,4963845,,89126685,89126685,megawatthours,megawatthours,megawatthours,megawatthours
+2020,KY,Kentucky,3998871,120078,71680321,71800399,megawatthours,megawatthours,megawatthours,megawatthours
+2020,KS,Kansas,2199029,,39483946,39483946,megawatthours,megawatthours,megawatthours,megawatthours
+2020,IN,Indiana,5411018,5426,97150318,97155744,megawatthours,megawatthours,megawatthours,megawatthours
+2020,IL,Illinois,7377779,479320,50105868,132469277,megawatthours,megawatthours,megawatthours,megawatthours
+2020,ID,Idaho,1362357,,24461352,24461352,megawatthours,megawatthours,megawatthours,megawatthours
+2020,IA,Iowa,2820350,85317,50554545,50639862,megawatthours,megawatthours,megawatthours,megawatthours
+2020,HI,Hawaii,489929,73242,8723519,8796761,megawatthours,megawatthours,megawatthours,megawatthours
+2020,GA,Georgia,7433522,41356,133428786,133470142,megawatthours,megawatthours,megawatthours,megawatthours
+2020,FL,Florida,13502527,10259,242429912,242440171,megawatthours,megawatthours,megawatthours,megawatthours
+2020,DE,Delaware,619824,1987,7070213,11129051,megawatthours,megawatthours,megawatthours,megawatthours
+2020,DC,District of Columbia,545012,10879,2846305,9785775,megawatthours,megawatthours,megawatthours,megawatthours
+2020,CT,Connecticut,1510076,151561,14001202,27113673,megawatthours,megawatthours,megawatthours,megawatthours
+2020,CO,Colorado,3121678,92316,55957948,56050264,megawatthours,megawatthours,megawatthours,megawatthours
+2020,CA,California,13933295,1962172,177488484,250174672,megawatthours,megawatthours,megawatthours,megawatthours
+2020,AZ,Arizona,4564706,92403,81867671,81960074,megawatthours,megawatthours,megawatthours,megawatthours
+2020,AR,Arkansas,2553638,33765,45817238,45851003,megawatthours,megawatthours,megawatthours,megawatthours
+2020,AL,Alabama,4644657,17280,83378325,83395605,megawatthours,megawatthours,megawatthours,megawatthours
+2020,AK,Alaska,329575,,5917577,5917577,megawatthours,megawatthours,megawatthours,megawatthours
+2020,WY,Wyoming,853850,,15331018,15331018,megawatthours,megawatthours,megawatthours,megawatthours
+2020,WV,West Virginia,1786482,,32076583,32076583,megawatthours,megawatthours,megawatthours,megawatthours
+2020,WI,Wisconsin,3756487,,67448361,67448361,megawatthours,megawatthours,megawatthours,megawatthours
+2020,WA,Washington,4829035,,84485772,86706144,megawatthours,megawatthours,megawatthours,megawatthours
+2020,VT,Vermont,296932,10496,5320962,5331458,megawatthours,megawatthours,megawatthours,megawatthours
+2020,VA,Virginia,6530397,,112825144,117254388,megawatthours,megawatthours,megawatthours,megawatthours
+2020,UT,Utah,1763456,2142,31661015,31663157,megawatthours,megawatthours,megawatthours,megawatthours
+2019,WI,Wisconsin,3749991,,69157540,69157540,megawatthours,megawatthours,megawatthours,megawatthours
+2019,WV,West Virginia,1802782,,33247013,33247013,megawatthours,megawatthours,megawatthours,megawatthours
+2019,VT,Vermont,294309,2716,5424948,5427664,megawatthours,megawatthours,megawatthours,megawatthours
+2019,VA,Virginia,6422026,13045,116816747,118435380,megawatthours,megawatthours,megawatthours,megawatthours
+2019,UT,Utah,1688671,4361,31138204,31142565,megawatthours,megawatthours,megawatthours,megawatthours
+2019,US,United States,206655385,14590585,3213128642,3811150463,megawatthours,megawatthours,megawatthours,megawatthours
+2019,TX,Texas,23280667,7636693,421706711,429343404,megawatthours,megawatthours,megawatthours,megawatthours
+2019,TN,Tennessee,5413122,43520,99785580,99829100,megawatthours,megawatthours,megawatthours,megawatthours
+2019,SD,South Dakota,697803,,12868931,12868931,megawatthours,megawatthours,megawatthours,megawatthours
+2019,SC,South Carolina,4349060,,80205620,80205620,megawatthours,megawatthours,megawatthours,megawatthours
+2019,RI,Rhode Island,398541,2428,4020565,7349915,megawatthours,megawatthours,megawatthours,megawatthours
+2019,PA,Pennsylvania,7893934,43571,50523010,145580383,megawatthours,megawatthours,megawatthours,megawatthours
+2019,OR,Oregon,2733122,3848,47728372,50404386,megawatthours,megawatthours,megawatthours,megawatthours
+2019,OK,Oklahoma,3513488,0,64795946,64795946,megawatthours,megawatthours,megawatthours,megawatthours
+2019,OH,Ohio,8053436,220644,45384477,148521920,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NY,New York,7895016,765904,72334007,145600345,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NV,Nevada,2005329,109163,32328433,36982386,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NM,New Mexico,1349098,23179,24856955,24880134,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NJ,New Jersey,4008051,575748,39867842,73916704,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NH,New Hampshire,580828,,5281168,10711657,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NE,Nebraska,1647495,2913,30380277,30383190,megawatthours,megawatthours,megawatthours,megawatthours
+2019,ND,North Dakota,1169027,,21559255,21559255,megawatthours,megawatthours,megawatthours,megawatthours
+2019,NC,North Carolina,7398065,5039,136430492,136435531,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MT,Montana,830779,,11930006,15321271,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MS,Mississippi,2654315,5325,48945701,48951026,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MO,Missouri,4275975,,78857775,78857775,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MN,Minnesota,3631135,803334,66162260,66965594,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MI,Michigan,5490130,415876,91921848,101249293,megawatthours,megawatthours,megawatthours,megawatthours
+2019,ME,Maine,636157,110754,6405730,11732040,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MD,Maryland,3292510,125486,29997242,60720658,megawatthours,megawatthours,megawatthours,megawatthours
+2019,MA,Massachusetts,2783670,450543,20475404,51336598,megawatthours,megawatthours,megawatthours,megawatthours
+2019,LA,Louisiana,5049790,,93128525,93128525,megawatthours,megawatthours,megawatthours,megawatthours
+2019,KY,Kentucky,4085519,128106,75217276,75345382,megawatthours,megawatthours,megawatthours,megawatthours
+2019,KS,Kansas,2231835,,41159628,41159628,megawatthours,megawatthours,megawatthours,megawatthours
+2019,IN,Indiana,5536487,22703,102081500,102104203,megawatthours,megawatthours,megawatthours,megawatthours
+2019,IL,Illinois,7500220,473522,49968979,138319481,megawatthours,megawatthours,megawatthours,megawatthours
+2019,ID,Idaho,1300575,,23985275,23985275,megawatthours,megawatthours,megawatthours,megawatthours
+2019,IA,Iowa,2767758,98458,50944690,51043148,megawatthours,megawatthours,megawatthours,megawatthours
+2019,HI,Hawaii,512572,68254,9384633,9452887,megawatthours,megawatthours,megawatthours,megawatthours
+2019,GA,Georgia,7553441,49753,139251237,139300990,megawatthours,megawatthours,megawatthours,megawatthours
+2019,FL,Florida,13032600,10888,240337067,240347955,megawatthours,megawatthours,megawatthours,megawatthours
+2019,DE,Delaware,621917,11613,7298054,11469422,megawatthours,megawatthours,megawatthours,megawatthours
+2019,DC,District of Columbia,598003,8829,3112215,11028403,megawatthours,megawatthours,megawatthours,megawatthours
+2019,CT,Connecticut,1512846,162274,13501894,27899996,megawatthours,megawatthours,megawatthours,megawatthours
+2019,CO,Colorado,3064779,70388,56450435,56520823,megawatthours,megawatthours,megawatthours,megawatthours
+2019,CA,California,13576506,1990410,181470082,250378710,megawatthours,megawatthours,megawatthours,megawatthours
+2019,AZ,Arizona,4225622,83432,77845738,77929170,megawatthours,megawatthours,megawatthours,megawatthours
+2019,AR,Arkansas,2607791,22798,48070234,48093032,megawatthours,megawatthours,megawatthours,megawatthours
+2019,AL,Alabama,4776859,18167,88076945,88095112,megawatthours,megawatthours,megawatthours,megawatthours
+2019,AK,Alaska,315518,,5818805,5818805,megawatthours,megawatthours,megawatthours,megawatthours
+2019,WY,Wyoming,908982,,16763496,16763496,megawatthours,megawatthours,megawatthours,megawatthours
+2019,WA,Washington,4937236,,88730775,91052796,megawatthours,megawatthours,megawatthours,megawatthours
+2018,LA,Louisiana,4857897,,94186072,94186072,megawatthours,megawatthours,megawatthours,megawatthours
+2018,KY,Kentucky,3951397,130341,76480295,76610636,megawatthours,megawatthours,megawatthours,megawatthours
+2018,KS,Kansas,2168169,,42036979,42036979,megawatthours,megawatthours,megawatthours,megawatthours
+2018,TN,Tennessee,5307917,43472,102867711,102911183,megawatthours,megawatthours,megawatthours,megawatthours
+2018,SD,South Dakota,663131,,12856938,12856938,megawatthours,megawatthours,megawatthours,megawatthours
+2018,SC,South Carolina,4210858,,81641138,81641138,megawatthours,megawatthours,megawatthours,megawatthours
+2018,RI,Rhode Island,391131,1616,4108150,7583339,megawatthours,megawatthours,megawatthours,megawatthours
+2018,PA,Pennsylvania,7683870,14267,49808523,148976731,megawatthours,megawatthours,megawatthours,megawatthours
+2018,OR,Oregon,2544114,6328,46725458,49325904,megawatthours,megawatthours,megawatthours,megawatthours
+2018,OK,Oklahoma,3330643,0,64575316,64575316,megawatthours,megawatthours,megawatthours,megawatthours
+2018,OH,Ohio,7887005,207562,46621224,152915167,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NY,New York,7733030,755855,72536102,149929851,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NV,Nevada,1948617,108185,32853973,37780263,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NM,New Mexico,1240371,18974,24029637,24048611,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NJ,New Jersey,3920766,469951,39948943,76016762,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NH,New Hampshire,569741,,5329358,11046284,megawatthours,megawatthours,megawatthours,megawatthours
+2018,WA,Washington,4642287,,87977064,90005791,megawatthours,megawatthours,megawatthours,megawatthours
+2018,IN,Indiana,5374101,24362,104170014,104194376,megawatthours,megawatthours,megawatthours,megawatthours
+2018,IL,Illinois,7357800,456619,51822364,142654808,megawatthours,megawatthours,megawatthours,megawatthours
+2018,ID,Idaho,1225150,,23753508,23753508,megawatthours,megawatthours,megawatthours,megawatthours
+2018,IA,Iowa,2641325,2607,51208048,51210655,megawatthours,megawatthours,megawatthours,megawatthours
+2018,HI,Hawaii,481589,30558,9306603,9337161,megawatthours,megawatthours,megawatthours,megawatthours
+2018,GA,Georgia,7213964,55738,139810336,139866074,megawatthours,megawatthours,megawatthours,megawatthours
+2018,FL,Florida,12304643,6702,238558689,238565391,megawatthours,megawatthours,megawatthours,megawatthours
+2018,DE,Delaware,607229,4246,7438479,11773100,megawatthours,megawatthours,megawatthours,megawatthours
+2018,DC,District of Columbia,585814,,3154278,11357910,megawatthours,megawatthours,megawatthours,megawatthours
+2018,CT,Connecticut,1487186,131715,13667330,28833925,megawatthours,megawatthours,megawatthours,megawatthours
+2018,CO,Colorado,2911583,161624,56288856,56450480,megawatthours,megawatthours,megawatthours,megawatthours
+2018,CA,California,13163869,1924290,205345286,255224272,megawatthours,megawatthours,megawatthours,megawatthours
+2018,AZ,Arizona,4040918,78040,78268262,78346302,megawatthours,megawatthours,megawatthours,megawatthours
+2018,AR,Arkansas,2558391,15071,49587637,49602708,megawatthours,megawatthours,megawatthours,megawatthours
+2018,AL,Alabama,4656454,17976,90262480,90280456,megawatthours,megawatthours,megawatthours,megawatthours
+2018,AK,Alaska,308046,,5972467,5972467,megawatthours,megawatthours,megawatthours,megawatthours
+2018,WY,Wyoming,869841,,16864678,16864678,megawatthours,megawatthours,megawatthours,megawatthours
+2018,WV,West Virginia,1735424,,33646813,33646813,megawatthours,megawatthours,megawatthours,megawatthours
+2018,WI,Wisconsin,3659927,,70959549,70959549,megawatthours,megawatthours,megawatthours,megawatthours
+2018,VT,Vermont,285273,2474,5528474,5530948,megawatthours,megawatthours,megawatthours,megawatthours
+2018,VA,Virginia,6094743,5661,117384211,118166348,megawatthours,megawatthours,megawatthours,megawatthours
+2018,UT,Utah,1611410,4657,31237751,31242408,megawatthours,megawatthours,megawatthours,megawatthours
+2018,US,United States,199047717,14163721,3260944103,3859185261,megawatthours,megawatthours,megawatthours,megawatthours
+2018,TX,Texas,21890517,7618499,416800129,424418628,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NE,Nebraska,1595786,2631,30936861,30939492,megawatthours,megawatthours,megawatthours,megawatthours
+2018,ND,North Dakota,1066085,,20669506,20669506,megawatthours,megawatthours,megawatthours,megawatthours
+2018,NC,North Carolina,7132540,5032,138282372,138287404,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MT,Montana,765353,,11802663,14838845,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MS,Mississippi,2599001,6128,50383940,50390068,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MO,Missouri,4232247,,82055835,82055835,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MN,Minnesota,3543817,761551,67946831,68708382,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MI,Michigan,5408922,430721,95568004,104869496,megawatthours,megawatthours,megawatthours,megawatthours
+2018,ME,Maine,637233,102613,6460259,12354819,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MD,Maryland,3202274,82115,30224830,62086455,megawatthours,megawatthours,megawatthours,megawatthours
+2018,MA,Massachusetts,2748317,471960,20997459,53285029,megawatthours,megawatthours,megawatthours,megawatthours
+2017,ND,North Dakota,1095608,,20140426,20140426,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NE,Nebraska,1651482,2787,30356220,30359007,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MT,Montana,800182,,11929206,14709656,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MS,Mississippi,2601811,5843,47822944,47828787,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MO,Missouri,4159381,,76461419,76461419,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MN,Minnesota,3652995,970560,66182020,67152580,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MI,Michigan,5543151,403159,92588972,101899093,megawatthours,megawatthours,megawatthours,megawatthours
+2017,ME,Maine,610006,1060,6026431,11213674,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MD,Maryland,3226038,92454,28089949,59303885,megawatthours,megawatthours,megawatthours,megawatthours
+2017,MA,Massachusetts,2856642,478193,21419339,52513321,megawatthours,megawatthours,megawatthours,megawatthours
+2017,LA,Louisiana,4961460,,91205935,91205935,megawatthours,megawatthours,megawatthours,megawatthours
+2017,KY,Kentucky,3951197,131349,72503038,72634387,megawatthours,megawatthours,megawatthours,megawatthours
+2017,KS,Kansas,2191592,,40287787,40287787,megawatthours,megawatthours,megawatthours,megawatthours
+2017,IN,Indiana,5383593,25656,98940312,98965968,megawatthours,megawatthours,megawatthours,megawatthours
+2017,IL,Illinois,7463264,455973,48928248,137196310,megawatthours,megawatthours,megawatthours,megawatthours
+2017,ID,Idaho,1294345,,23793790,23793790,megawatthours,megawatthours,megawatthours,megawatthours
+2017,IA,Iowa,2661280,,48921997,48921997,megawatthours,megawatthours,megawatthours,megawatthours
+2017,HI,Hawaii,507222,21421,9302780,9324201,megawatthours,megawatthours,megawatthours,megawatthours
+2017,GA,Georgia,7259830,25218,133431402,133456620,megawatthours,megawatthours,megawatthours,megawatthours
+2017,FL,Florida,12683241,2101,233152448,233154549,megawatthours,megawatthours,megawatthours,megawatthours
+2017,DE,Delaware,605379,1198,6882217,11128603,megawatthours,megawatthours,megawatthours,megawatthours
+2017,DC,District of Columbia,593838,,2896794,10916446,megawatthours,megawatthours,megawatthours,megawatthours
+2017,CT,Connecticut,1530529,115685,12402641,28135530,megawatthours,megawatthours,megawatthours,megawatthours
+2017,CO,Colorado,2982676,166595,54663591,54830186,megawatthours,megawatthours,megawatthours,megawatthours
+2017,CA,California,13994972,1936875,219016574,257267937,megawatthours,megawatthours,megawatthours,megawatthours
+2017,AZ,Arizona,4223835,72752,77573510,77646262,megawatthours,megawatthours,megawatthours,megawatthours
+2017,AR,Arkansas,2507003,14628,46071323,46085951,megawatthours,megawatthours,megawatthours,megawatthours
+2017,AL,Alabama,4691415,876,86240854,86241730,megawatthours,megawatthours,megawatthours,megawatthours
+2017,AK,Alaska,336498,,6185799,6185799,megawatthours,megawatthours,megawatthours,megawatthours
+2017,WY,Wyoming,912700,,16778067,16778067,megawatthours,megawatthours,megawatthours,megawatthours
+2017,WV,West Virginia,1724921,,31709019,31709019,megawatthours,megawatthours,megawatthours,megawatthours
+2017,WI,Wisconsin,3757795,,69079109,69079109,megawatthours,megawatthours,megawatthours,megawatthours
+2017,WA,Washington,5001836,,89639210,91948172,megawatthours,megawatthours,megawatthours,megawatthours
+2017,VT,Vermont,295039,2590,5421072,5423662,megawatthours,megawatthours,megawatthours,megawatthours
+2017,VA,Virginia,6067042,2004,110944698,111529732,megawatthours,megawatthours,megawatthours,megawatthours
+2017,UT,Utah,1663995,2294,30586727,30589021,megawatthours,megawatthours,megawatthours,megawatthours
+2017,US,United States,202544716,13656138,3149972818,3723355974,megawatthours,megawatthours,megawatthours,megawatthours
+2017,TX,Texas,21861661,7058328,394822046,401880374,megawatthours,megawatthours,megawatthours,megawatthours
+2017,TN,Tennessee,5289697,49294,97190591,97239885,megawatthours,megawatthours,megawatthours,megawatthours
+2017,SD,South Dakota,669845,,12313675,12313675,megawatthours,megawatthours,megawatthours,megawatthours
+2017,SC,South Carolina,4248341,,78096757,78096757,megawatthours,megawatthours,megawatthours,megawatthours
+2017,RI,Rhode Island,401715,732,3936206,7384671,megawatthours,megawatthours,megawatthours,megawatthours
+2017,PA,Pennsylvania,7778480,15145,45472076,142990896,megawatthours,megawatthours,megawatthours,megawatthours
+2017,OR,Oregon,2722305,22865,47535844,50043816,megawatthours,megawatthours,megawatthours,megawatthours
+2017,OK,Oklahoma,3290677,,60492128,60492128,megawatthours,megawatthours,megawatthours,megawatthours
+2017,OH,Ohio,7977194,179158,45028494,146643831,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NY,New York,7887361,752354,68283520,144992433,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NV,Nevada,1994126,112601,32690068,36657786,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NM,New Mexico,1251685,19235,22990349,23009584,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NJ,New Jersey,3991917,499500,37028500,73382940,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NH,New Hampshire,586810,,5111032,10787261,megawatthours,megawatthours,megawatthours,megawatthours
+2017,NC,North Carolina,7149113,4044,131417275,131421319,megawatthours,megawatthours,megawatthours,megawatthours
+2016,WV,West Virginia,1674089,,32076146,32076146,megawatthours,megawatthours,megawatthours,megawatthours
+2016,WY,Wyoming,864017,,16554870,16554870,megawatthours,megawatthours,megawatthours,megawatthours
+2016,WA,Washington,4639021,,86799742,88885316,megawatthours,megawatthours,megawatthours,megawatthours
+2016,VT,Vermont,287909,2816,5513634,5516450,megawatthours,megawatthours,megawatthours,megawatthours
+2016,VA,Virginia,5860049,2355,111646889,112280665,megawatthours,megawatthours,megawatthours,megawatthours
+2016,UT,Utah,1575103,2288,30177246,30179534,megawatthours,megawatthours,megawatthours,megawatthours
+2016,US,United States,196366940,12905394,3189541028,3762461630,megawatthours,megawatthours,megawatthours,megawatthours
+2016,TX,Texas,20806591,7191121,391470688,398661809,megawatthours,megawatthours,megawatthours,megawatthours
+2016,TN,Tennessee,5258692,14305,100744134,100758439,megawatthours,megawatthours,megawatthours,megawatthours
+2016,SD,South Dakota,633053,,12129530,12129530,megawatthours,megawatthours,megawatthours,megawatthours
+2016,SC,South Carolina,4153238,,79577550,79577550,megawatthours,megawatthours,megawatthours,megawatthours
+2016,RI,Rhode Island,392700,0,4023584,7524270,megawatthours,megawatthours,megawatthours,megawatthours
+2016,PA,Pennsylvania,7584809,14087,46927424,145327683,megawatthours,megawatthours,megawatthours,megawatthours
+2016,OR,Oregon,2471214,1288,45335947,47349350,megawatthours,megawatthours,megawatthours,megawatthours
+2016,OK,Oklahoma,3210615,,61516554,61516554,megawatthours,megawatthours,megawatthours,megawatthours
+2016,OH,Ohio,7859862,183717,49152325,150597796,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NY,New York,7714000,736505,69693984,147803038,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NV,Nevada,1886427,70325,33433864,36144630,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NM,New Mexico,1202459,21058,23018489,23039547,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NJ,New Jersey,3933087,474309,38736693,75359371,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NH,New Hampshire,569141,,5379546,10904956,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NE,Nebraska,1576137,,30199354,30199354,megawatthours,megawatthours,megawatthours,megawatthours
+2016,ND,North Dakota,966589,,18520188,18520188,megawatthours,megawatthours,megawatthours,megawatthours
+2016,NC,North Carolina,7014707,,134404319,134404319,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MT,Montana,735926,,11365708,14100601,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MS,Mississippi,2559981,,49050164,49050164,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MO,Missouri,4103161,,78618056,78618056,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MN,Minnesota,3473133,623066,65923426,66546492,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MI,Michigan,5452288,416528,94935158,104467813,megawatthours,megawatthours,megawatthours,megawatthours
+2016,ME,Maine,597533,58986,5747904,11448951,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MD,Maryland,3202127,64892,29266915,61353911,megawatthours,megawatthours,megawatthours,megawatthours
+2016,MA,Massachusetts,2790964,468513,22330919,53475888,megawatthours,megawatthours,megawatthours,megawatthours
+2016,LA,Louisiana,4773013,,91452659,91452659,megawatthours,megawatthours,megawatthours,megawatthours
+2016,KY,Kentucky,3891032,135976,74417599,74553575,megawatthours,megawatthours,megawatthours,megawatthours
+2016,KS,Kansas,2129927,,40810174,40810174,megawatthours,megawatthours,megawatthours,megawatthours
+2016,IN,Indiana,5412467,13348,103691473,103704821,megawatthours,megawatthours,megawatthours,megawatthours
+2016,IL,Illinois,7361573,376109,48858535,141050409,megawatthours,megawatthours,megawatthours,megawatthours
+2016,ID,Idaho,1203681,14651,23048310,23062961,megawatthours,megawatthours,megawatthours,megawatthours
+2016,IA,Iowa,2527676,,48431193,48431193,megawatthours,megawatthours,megawatthours,megawatthours
+2016,HI,Hawaii,492965,8242,9437147,9445389,megawatthours,megawatthours,megawatthours,megawatthours
+2016,GA,Georgia,7208227,26284,138085955,138112239,megawatthours,megawatthours,megawatthours,megawatthours
+2016,FL,Florida,12302577,2287,235719535,235721822,megawatthours,megawatthours,megawatthours,megawatthours
+2016,DE,Delaware,587590,,6990155,11258438,megawatthours,megawatthours,megawatthours,megawatthours
+2016,DC,District of Columbia,594665,,3049887,11394003,megawatthours,megawatthours,megawatthours,megawatthours
+2016,CT,Connecticut,1509945,79519,12305217,28931087,megawatthours,megawatthours,megawatthours,megawatthours
+2016,CO,Colorado,2860178,169390,54632647,54802037,megawatthours,megawatthours,megawatthours,megawatthours
+2016,CA,California,13405104,1656884,225905190,256846635,megawatthours,megawatthours,megawatthours,megawatthours
+2016,AZ,Arizona,4083317,62722,78175106,78237828,megawatthours,megawatthours,megawatthours,megawatthours
+2016,AR,Arkansas,2410625,12360,46176078,46188438,megawatthours,megawatthours,megawatthours,megawatthours
+2016,AL,Alabama,4604565,,88225141,88225141,megawatthours,megawatthours,megawatthours,megawatthours
+2016,AK,Alaska,319577,,6123202,6123202,megawatthours,megawatthours,megawatthours,megawatthours
+2016,WI,Wisconsin,3639615,155,69736183,69736338,megawatthours,megawatthours,megawatthours,megawatthours
+2015,AK,Alaska,307256,,6159204,6159204,megawatthours,megawatthours,megawatthours,megawatthours
+2015,WY,Wyoming,844303,,16924762,16924762,megawatthours,megawatthours,megawatthours,megawatthours
+2015,WV,West Virginia,1611457,,32303026,32303026,megawatthours,megawatthours,megawatthours,megawatthours
+2015,WI,Wisconsin,3427091,2292,68696640,68698932,megawatthours,megawatthours,megawatthours,megawatthours
+2015,WA,Washington,4495499,,88103002,90116086,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NE,Nebraska,1471381,,29495073,29495073,megawatthours,megawatthours,megawatthours,megawatthours
+2015,ND,North Dakota,904374,,18128948,18128948,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NC,North Carolina,6677071,,133847523,133847523,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MT,Montana,708721,,11485015,14206911,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MS,Mississippi,2429009,,48691529,48691529,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MO,Missouri,4065884,,81504081,81504081,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MN,Minnesota,3321348,716369,65862865,66579234,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MI,Michigan,5112277,605375,92569534,102479921,megawatthours,megawatthours,megawatthours,megawatthours
+2015,ME,Maine,593049,1153,5725214,11888168,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MD,Maryland,3082021,22400,29102052,61781719,megawatthours,megawatthours,megawatthours,megawatthours
+2015,VT,Vermont,275424,2434,5518675,5521109,megawatthours,megawatthours,megawatthours,megawatthours
+2015,VA,Virginia,5587644,,111761995,112009045,megawatthours,megawatthours,megawatthours,megawatthours
+2015,UT,Utah,1506165,2328,30190022,30192350,megawatthours,megawatthours,megawatthours,megawatthours
+2015,US,United States,187519774,12623813,3191424561,3758992390,megawatthours,megawatthours,megawatthours,megawatthours
+2015,TX,Texas,19572003,7091470,385245884,392337354,megawatthours,megawatthours,megawatthours,megawatthours
+2015,TN,Tennessee,4970212,12931,99619177,99632108,megawatthours,megawatthours,megawatthours,megawatthours
+2015,SD,South Dakota,603715,,12101979,12101979,megawatthours,megawatthours,megawatthours,megawatthours
+2015,SC,South Carolina,4057112,,81328246,81328246,megawatthours,megawatthours,megawatthours,megawatthours
+2015,RI,Rhode Island,382359,,4560273,7664718,megawatthours,megawatthours,megawatthours,megawatthours
+2015,PA,Pennsylvania,7300467,10613,48033853,146344028,megawatthours,megawatthours,megawatthours,megawatthours
+2015,OR,Oregon,2357794,,45369896,47263974,megawatthours,megawatthours,megawatthours,megawatthours
+2015,OK,Oklahoma,3059805,,61336385,61336385,megawatthours,megawatthours,megawatthours,megawatthours
+2015,OH,Ohio,7443598,165285,51702443,149213224,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NY,New York,7428654,584067,69816965,148913655,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NV,Nevada,1796866,40053,33674330,36019690,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NM,New Mexico,1152037,19521,23074032,23093553,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NJ,New Jersey,3765849,316806,39363803,75489623,megawatthours,megawatthours,megawatthours,megawatthours
+2015,NH,New Hampshire,548700,,5950803,10999149,megawatthours,megawatthours,megawatthours,megawatthours
+2015,MA,Massachusetts,2724808,383578,26017777,54621088,megawatthours,megawatthours,megawatthours,megawatthours
+2015,LA,Louisiana,4573341,,91676489,91676489,megawatthours,megawatthours,megawatthours,megawatthours
+2015,KY,Kentucky,3793236,134994,75903636,76038630,megawatthours,megawatthours,megawatthours,megawatthours
+2015,KS,Kansas,1987900,,39849127,39849127,megawatthours,megawatthours,megawatthours,megawatthours
+2015,IN,Indiana,5213775,16241,104498277,104514518,megawatthours,megawatthours,megawatthours,megawatthours
+2015,IL,Illinois,6915147,453114,45094485,138619970,megawatthours,megawatthours,megawatthours,megawatthours
+2015,ID,Idaho,1150304,,23058814,23058814,megawatthours,megawatthours,megawatthours,megawatthours
+2015,IA,Iowa,2351973,,47147293,47147293,megawatthours,megawatthours,megawatthours,megawatthours
+2015,HI,Hawaii,474480,8126,9503226,9511352,megawatthours,megawatthours,megawatthours,megawatthours
+2015,GA,Georgia,6778373,21605,135856610,135878215,megawatthours,megawatthours,megawatthours,megawatthours
+2015,FL,Florida,11753029,2052,235597346,235599398,megawatthours,megawatthours,megawatthours,megawatthours
+2015,DE,Delaware,573595,,7142444,11498205,megawatthours,megawatthours,megawatthours,megawatthours
+2015,DC,District of Columbia,563270,,3241076,11291233,megawatthours,megawatthours,megawatthours,megawatthours
+2015,CT,Connecticut,1470437,20663,12457127,29476155,megawatthours,megawatthours,megawatthours,megawatthours
+2015,CO,Colorado,2699614,172007,53944039,54116046,megawatthours,megawatthours,megawatthours,megawatthours
+2015,CA,California,13028657,1763967,230583822,261170437,megawatthours,megawatthours,megawatthours,megawatthours
+2015,AZ,Arizona,3858626,53918,77295498,77349416,megawatthours,megawatthours,megawatthours,megawatthours
+2015,AR,Arkansas,2317944,451,46464703,46465154,megawatthours,megawatthours,megawatthours,megawatthours
+2015,AL,Alabama,4432118,,88845543,88845543,megawatthours,megawatthours,megawatthours,megawatthours
+2014,ME,Maine,624978,1483,162660,12002661,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MI,Michigan,5379559,416134,91446084,103314098,megawatthours,megawatthours,megawatthours,megawatthours
+2014,VA,Virginia,5836956,,112054916,112098381,megawatthours,megawatthours,megawatthours,megawatthours
+2014,UT,Utah,1564338,2235,30040784,30043019,megawatthours,megawatthours,megawatthours,megawatthours
+2014,US,United States,196027713,16417957,3184841482,3764700267,megawatthours,megawatthours,megawatthours,megawatthours
+2014,TX,Texas,20290084,9856842,379812978,389669820,megawatthours,megawatthours,megawatthours,megawatthours
+2014,TN,Tennessee,5218409,13951,100205279,100219230,megawatthours,megawatthours,megawatthours,megawatthours
+2014,SD,South Dakota,643310,,12354726,12354726,megawatthours,megawatthours,megawatthours,megawatthours
+2014,SC,South Carolina,4249936,,81619765,81619765,megawatthours,megawatthours,megawatthours,megawatthours
+2014,RI,Rhode Island,397976,,5074465,7643104,megawatthours,megawatthours,megawatthours,megawatthours
+2014,PA,Pennsylvania,7638019,10459,46484296,146687698,megawatthours,megawatthours,megawatthours,megawatthours
+2014,OR,Oregon,2464728,,45493070,47334953,megawatthours,megawatthours,megawatthours,megawatthours
+2014,OK,Oklahoma,3206122,,61573374,61573374,megawatthours,megawatthours,megawatthours,megawatthours
+2014,OH,Ohio,7845883,173868,53328386,150679713,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NY,New York,7673647,592861,69283139,147371913,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NV,Nevada,1826385,31202,32911493,35075606,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NM,New Mexico,1203608,21451,23093771,23115222,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NJ,New Jersey,3846202,272626,36298399,73866078,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MD,Maryland,3211875,16826,29386791,61683869,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MA,Massachusetts,2836213,371634,29314394,54469292,megawatthours,megawatthours,megawatthours,megawatthours
+2014,LA,Louisiana,4719011,,90628316,90628316,megawatthours,megawatthours,megawatthours,megawatthours
+2014,KY,Kentucky,4105138,174608,78664316,78838924,megawatthours,megawatthours,megawatthours,megawatthours
+2014,KS,Kansas,2112040,,40561606,40561606,megawatthours,megawatthours,megawatthours,megawatthours
+2014,IN,Indiana,5568490,,106942504,106942504,megawatthours,megawatthours,megawatthours,megawatthours
+2014,IL,Illinois,7369994,447337,42811128,141540287,megawatthours,megawatthours,megawatthours,megawatthours
+2014,ID,Idaho,1209756,,23233284,23233284,megawatthours,megawatthours,megawatthours,megawatthours
+2014,IA,Iowa,2457798,,47201853,47201853,megawatthours,megawatthours,megawatthours,megawatthours
+2014,HI,Hawaii,493386,8114,9467338,9475452,megawatthours,megawatthours,megawatthours,megawatthours
+2014,GA,Georgia,7070573,22154,135767778,135789932,megawatthours,megawatthours,megawatthours,megawatthours
+2014,FL,Florida,11771873,,226078111,226078111,megawatthours,megawatthours,megawatthours,megawatthours
+2014,DE,Delaware,590394,2029,6824942,11338477,megawatthours,megawatthours,megawatthours,megawatthours
+2014,DC,District of Columbia,582849,,3017001,11193589,megawatthours,megawatthours,megawatthours,megawatthours
+2014,CT,Connecticut,1528485,61066,12637103,29354460,megawatthours,megawatthours,megawatthours,megawatthours
+2014,CO,Colorado,2780354,59848,53336673,53396521,megawatthours,megawatthours,megawatthours,megawatthours
+2014,CA,California,13672774,2664135,232926669,262584786,megawatthours,megawatthours,megawatthours,megawatthours
+2014,AZ,Arizona,3972816,85200,76212485,76297685,megawatthours,megawatthours,megawatthours,megawatthours
+2014,AK,Alaska,321001,,6164812,6164812,megawatthours,megawatthours,megawatthours,megawatthours
+2014,WY,Wyoming,892170,,17134075,17134075,megawatthours,megawatthours,megawatthours,megawatthours
+2014,WV,West Virginia,1702484,,32696106,32696106,megawatthours,megawatthours,megawatthours,megawatthours
+2014,WI,Wisconsin,3618588,271019,69223736,69494755,megawatthours,megawatthours,megawatthours,megawatthours
+2014,WA,Washington,4797765,20068,90021490,92140777,megawatthours,megawatthours,megawatthours,megawatthours
+2014,AR,Arkansas,2451468,,47080301,47080301,megawatthours,megawatthours,megawatthours,megawatthours
+2014,AL,Alabama,4712003,,90493727,90493727,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NH,New Hampshire,569858,,5935176,10944081,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NE,Nebraska,1573666,,30222168,30222168,megawatthours,megawatthours,megawatthours,megawatthours
+2014,ND,North Dakota,949742,,18239732,18239732,megawatthours,megawatthours,megawatthours,megawatthours
+2014,NC,North Carolina,6932216,,133132776,133132776,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MT,Montana,734311,,11492057,14102392,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MS,Mississippi,2572704,,49408631,49408631,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MO,Missouri,4367543,,83878397,83878397,megawatthours,megawatthours,megawatthours,megawatthours
+2014,MN,Minnesota,3578213,820748,67898619,68719367,megawatthours,megawatthours,megawatthours,megawatthours
+2014,VT,Vermont,290022,59,5569802,5569861,megawatthours,megawatthours,megawatthours,megawatthours
+2013,GA,Georgia,7010277,6195,130491275,130497470,megawatthours,megawatthours,megawatthours,megawatthours
+2013,HI,Hawaii,510507,2173,9500991,9503164,megawatthours,megawatthours,megawatthours,megawatthours
+2013,WV,West Virginia,1686789,0,31399850,31399850,megawatthours,megawatthours,megawatthours,megawatthours
+2013,WI,Wisconsin,3713319,301355,68822688,69124043,megawatthours,megawatthours,megawatthours,megawatthours
+2013,WA,Washington,4989626,43186,90750103,92882723,megawatthours,megawatthours,megawatthours,megawatthours
+2013,VT,Vermont,300170,5457,5582255,5587712,megawatthours,megawatthours,megawatthours,megawatthours
+2013,VA,Virginia,5936655,0,110511827,110511827,megawatthours,megawatthours,megawatthours,megawatthours
+2013,UT,Utah,1637054,,30474034,30474034,megawatthours,megawatthours,megawatthours,megawatthours
+2013,US,United States,200098551,18464996,3147192126,3724867821,megawatthours,megawatthours,megawatthours,megawatthours
+2013,TX,Texas,20349926,10011263,368805991,378817254,megawatthours,megawatthours,megawatthours,megawatthours
+2013,TN,Tennessee,5207797,13302,96930711,96944013,megawatthours,megawatthours,megawatthours,megawatthours
+2013,SD,South Dakota,655906,,12209799,12209799,megawatthours,megawatthours,megawatthours,megawatthours
+2013,SC,South Carolina,4222476,,78602094,78602094,megawatthours,megawatthours,megawatthours,megawatthours
+2013,RI,Rhode Island,417999,,5142158,7781122,megawatthours,megawatthours,megawatthours,megawatthours
+2013,PA,Pennsylvania,7856699,30674,47573806,146253763,megawatthours,megawatthours,megawatthours,megawatthours
+2013,OR,Oregon,2559256,58368,45610192,47640978,megawatthours,megawatthours,megawatthours,megawatthours
+2013,OK,Oklahoma,3219373,,59929172,59929172,megawatthours,megawatthours,megawatthours,megawatthours
+2013,OH,Ohio,8074439,173422,56979965,150307018,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NY,New York,7944873,404503,70398866,147895127,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NV,Nevada,1891534,31758,33160751,35211215,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NM,New Mexico,1239045,2835,23062191,23065026,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NJ,New Jersey,4009763,250648,35800834,74642399,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NH,New Hampshire,593241,4,5936890,11043276,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NE,Nebraska,1649225,,30700605,30700605,megawatthours,megawatthours,megawatthours,megawatthours
+2013,ND,North Dakota,861285,,16032967,16032967,megawatthours,megawatthours,megawatthours,megawatthours
+2013,NC,North Carolina,6971730,0,129779905,129779905,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MT,Montana,754502,,11348089,14045174,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MS,Mississippi,2620551,,48781990,48781990,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MO,Missouri,4480592,,83406957,83406957,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MN,Minnesota,3687536,942126,67701977,68644103,megawatthours,megawatthours,megawatthours,megawatthours
+2013,AL,Alabama,4719383,0,87852107,87852107,megawatthours,megawatthours,megawatthours,megawatthours
+2013,FL,Florida,11921436,2177,221917337,221919514,megawatthours,megawatthours,megawatthours,megawatthours
+2013,DE,Delaware,609603,2066,6808130,11347856,megawatthours,megawatthours,megawatthours,megawatthours
+2013,DC,District of Columbia,595510,,2797524,11085519,megawatthours,megawatthours,megawatthours,megawatthours
+2013,CT,Connecticut,1602162,73201,11052116,29824516,megawatthours,megawatthours,megawatthours,megawatthours
+2013,CO,Colorado,2870866,64793,53376856,53441649,megawatthours,megawatthours,megawatthours,megawatthours
+2013,CA,California,14038685,4521789,231258488,261332459,megawatthours,megawatthours,megawatthours,megawatthours
+2013,AZ,Arizona,4064537,103929,75558108,75662037,megawatthours,megawatthours,megawatthours,megawatthours
+2013,AR,Arkansas,2507796,0,46683034,46683034,megawatthours,megawatthours,megawatthours,megawatthours
+2013,AK,Alaska,336726,,6268212,6268212,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MI,Michigan,5535180,440435,92605231,103038305,megawatthours,megawatthours,megawatthours,megawatthours
+2013,IA,Iowa,2508987,0,46705216,46705216,megawatthours,megawatthours,megawatthours,megawatthours
+2013,ME,Maine,636849,,159790,11855047,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MD,Maryland,3325218,13688,28809703,61899478,megawatthours,megawatthours,megawatthours,megawatthours
+2013,MA,Massachusetts,2968820,309066,29469135,55265074,megawatthours,megawatthours,megawatthours,megawatthours
+2013,LA,Louisiana,4609571,0,85807932,85807932,megawatthours,megawatthours,megawatthours,megawatthours
+2013,KY,Kentucky,4553483,111955,84651887,84763842,megawatthours,megawatthours,megawatthours,megawatthours
+2013,KS,Kansas,2140588,,39847397,39847397,megawatthours,megawatthours,megawatthours,megawatthours
+2013,IN,Indiana,5666744,0,105487389,105487389,megawatthours,megawatthours,megawatthours,megawatthours
+2013,IL,Illinois,7617707,451507,43479152,141804888,megawatthours,megawatthours,megawatthours,megawatthours
+2013,ID,Idaho,1300448,93121,24114935,24208056,megawatthours,megawatthours,megawatthours,megawatthours
+2013,WY,Wyoming,916109,,17053514,17053514,megawatthours,megawatthours,megawatthours,megawatthours
+2012,AK,Alaska,347474,,6416411,6416411,megawatthours,megawatthours,megawatthours,megawatthours
+2012,DE,Delaware,623817,2152,7063915,11519331,megawatthours,megawatthours,megawatthours,megawatthours
+2012,WV,West Virginia,1668876,,30817241,30817241,megawatthours,megawatthours,megawatthours,megawatthours
+2012,WI,Wisconsin,3726880,,68820090,68820090,megawatthours,megawatthours,megawatthours,megawatthours
+2012,WA,Washington,5000384,37537,90002831,92336441,megawatthours,megawatthours,megawatthours,megawatthours
+2012,VT,Vermont,298430,,5510764,5510764,megawatthours,megawatthours,megawatthours,megawatthours
+2012,VA,Virginia,5837525,,107794985,107794985,megawatthours,megawatthours,megawatthours,megawatthours
+2012,UT,Utah,1609638,,29723368,29723368,megawatthours,megawatthours,megawatthours,megawatthours
+2012,US,United States,200079915,8263438,3172096249,3694649786,megawatthours,megawatthours,megawatthours,megawatthours
+2012,FL,Florida,11950389,549,220673784,220674333,megawatthours,megawatthours,megawatthours,megawatthours
+2012,TX,Texas,19771834,3361974,361742157,365104131,megawatthours,megawatthours,megawatthours,megawatthours
+2012,TN,Tennessee,5219438,0,96381472,96381472,megawatthours,megawatthours,megawatthours,megawatthours
+2012,SD,South Dakota,635454,,11734210,11734210,megawatthours,megawatthours,megawatthours,megawatthours
+2012,SC,South Carolina,4212147,,77780953,77780953,megawatthours,megawatthours,megawatthours,megawatthours
+2012,RI,Rhode Island,417437,,5015643,7708334,megawatthours,megawatthours,megawatthours,megawatthours
+2012,PA,Pennsylvania,7836605,122234,50475950,144709727,megawatthours,megawatthours,megawatthours,megawatthours
+2012,OR,Oregon,2528386,,45097314,46688856,megawatthours,megawatthours,megawatthours,megawatthours
+2012,OK,Oklahoma,3213530,,59340624,59340624,megawatthours,megawatthours,megawatthours,megawatthours
+2012,OH,Ohio,8256143,160952,71872778,152456864,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NY,New York,7752825,327179,71680944,143162668,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NE,Nebraska,1669455,,30827939,30827939,megawatthours,megawatthours,megawatthours,megawatthours
+2012,ND,North Dakota,796981,,14716956,14716956,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NV,Nevada,1905132,32159,33534643,35179918,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NM,New Mexico,1255211,,23178568,23178568,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NJ,New Jersey,4064412,167423,37529127,75052914,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NH,New Hampshire,588668,0,6780802,10870261,megawatthours,megawatthours,megawatthours,megawatthours
+2012,NC,North Carolina,6936304,,128084893,128084893,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MT,Montana,750757,,11167951,13863383,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MS,Mississippi,2620384,,48387675,48387675,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MO,Missouri,4464201,,82435359,82435359,megawatthours,megawatthours,megawatthours,megawatthours
+2012,GA,Georgia,7093025,,130978872,130978872,megawatthours,megawatthours,megawatthours,megawatthours
+2012,HI,Hawaii,521999,0,9639157,9639157,megawatthours,megawatthours,megawatthours,megawatthours
+2012,IA,Iowa,2475329,,45709100,45709100,megawatthours,megawatthours,megawatthours,megawatthours
+2012,ID,Idaho,1284091,218452,23493407,23711859,megawatthours,megawatthours,megawatthours,megawatthours
+2012,IL,Illinois,7773260,644397,61243585,143540004,megawatthours,megawatthours,megawatthours,megawatthours
+2012,IN,Indiana,5695557,288491,104884934,105173425,megawatthours,megawatthours,megawatthours,megawatthours
+2012,KS,Kansas,2182051,,40293476,40293476,megawatthours,megawatthours,megawatthours,megawatthours
+2012,KY,Kentucky,4822328,,89048490,89048490,megawatthours,megawatthours,megawatthours,megawatthours
+2012,LA,Louisiana,4588505,,84730743,84730743,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MA,Massachusetts,2995436,307590,29537183,55313324,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MD,Maryland,3347449,29488,29298603,61813552,megawatthours,megawatthours,megawatthours,megawatthours
+2012,ME,Maine,626077,,155943,11561059,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MI,Michigan,5676320,445628,95173582,104818191,megawatthours,megawatthours,megawatthours,megawatthours
+2012,MN,Minnesota,3681848,843958,67144577,67988535,megawatthours,megawatthours,megawatthours,megawatthours
+2012,AL,Alabama,4667126,0,86182548,86182548,megawatthours,megawatthours,megawatthours,megawatthours
+2012,AR,Arkansas,2537631,33463,46826104,46859567,megawatthours,megawatthours,megawatthours,megawatthours
+2012,AZ,Arizona,4064977,26189,75037154,75063343,megawatthours,megawatthours,megawatthours,megawatthours
+2012,CA,California,14055012,942213,234402668,259538038,megawatthours,megawatthours,megawatthours,megawatthours
+2012,CO,Colorado,2907271,231022,53454275,53685297,megawatthours,megawatthours,megawatthours,megawatthours
+2012,CT,Connecticut,1597127,40388,10492417,29492338,megawatthours,megawatthours,megawatthours,megawatthours
+2012,DC,District of Columbia,609711,,2808730,11258845,megawatthours,megawatthours,megawatthours,megawatthours
+2012,WY,Wyoming,919066,,16971354,16971354,megawatthours,megawatthours,megawatthours,megawatthours
+2011,WY,Wyoming,1076307,,17417762,17417762,megawatthours,megawatthours,megawatthours,megawatthours
+2011,AK,Alaska,390507,,6319540,6319540,megawatthours,megawatthours,megawatthours,megawatthours
+2011,WI,Wisconsin,4239761,,68611622,68611622,megawatthours,megawatthours,megawatthours,megawatthours
+2011,WA,Washington,5791603,39026,91363506,93724917,megawatthours,megawatthours,megawatthours,megawatthours
+2011,VT,Vermont,342966,,5550184,5550184,megawatthours,megawatthours,megawatthours,megawatthours
+2011,VA,Virginia,6811405,,110228265,110228265,megawatthours,megawatthours,megawatthours,megawatthours
+2011,UT,Utah,1783299,,28858946,28858946,megawatthours,megawatthours,megawatthours,megawatthours
+2011,US,United States,231716623,10259330,3272622353,3749846180,megawatthours,megawatthours,megawatthours,megawatthours
+2011,TX,Texas,23238430,5690036,370375080,376065116,megawatthours,megawatthours,megawatthours,megawatthours
+2011,TN,Tennessee,6224678,0,100733329,100733329,megawatthours,megawatthours,megawatthours,megawatthours
+2011,SD,South Dakota,721725,,11679600,11679600,megawatthours,megawatthours,megawatthours,megawatthours
+2011,SC,South Carolina,4973680,,80488546,80488546,megawatthours,megawatthours,megawatthours,megawatthours
+2011,RI,Rhode Island,477814,,5265323,7732420,megawatthours,megawatthours,megawatthours,megawatthours
+2011,PA,Pennsylvania,9192250,119778,65055790,148757238,megawatthours,megawatthours,megawatthours,megawatthours
+2011,OR,Oregon,2914895,,45759936,47171446,megawatthours,megawatthours,megawatthours,megawatthours
+2011,OK,Oklahoma,3698151,,59846794,59846794,megawatthours,megawatthours,megawatthours,megawatthours
+2011,OH,Ohio,9562337,8,88397902,154746310,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NY,New York,8901163,236390,75550811,144046609,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NV,Nevada,2095822,32449,32417516,33916479,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NM,New Mexico,1423828,,23041665,23041665,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NJ,New Jersey,4749444,153186,42522250,76859762,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NH,New Hampshire,671611,4074,7357647,10868607,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NE,Nebraska,1833793,,29676084,29676084,megawatthours,megawatthours,megawatthours,megawatthours
+2011,ND,North Dakota,848860,,13737016,13737016,megawatthours,megawatthours,megawatthours,megawatthours
+2011,NC,North Carolina,8100214,,131084933,131084933,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MT,Montana,852016,,11131135,13788081,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MS,Mississippi,3048747,,49337557,49337557,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MO,Missouri,5206413,,84254841,84254841,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MN,Minnesota,4234885,781804,67750904,68532708,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MI,Michigan,6491641,461327,95230803,105053558,megawatthours,megawatthours,megawatthours,megawatthours
+2011,ME,Maine,705396,,155374,11415345,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MD,Maryland,3930057,562,31636835,63599711,megawatthours,megawatthours,megawatthours,megawatthours
+2011,MA,Massachusetts,3433867,301949,30286691,55569912,megawatthours,megawatthours,megawatthours,megawatthours
+2011,LA,Louisiana,5337059,,86369081,86369081,megawatthours,megawatthours,megawatthours,megawatthours
+2011,KY,Kentucky,5532899,,89538341,89538341,megawatthours,megawatthours,megawatthours,megawatthours
+2011,KS,Kansas,2518733,,40760399,40760399,megawatthours,megawatthours,megawatthours,megawatthours
+2011,IN,Indiana,6538887,298493,105519646,105818139,megawatthours,megawatthours,megawatthours,megawatthours
+2011,IL,Illinois,8829418,412746,72505128,142885567,megawatthours,megawatthours,megawatthours,megawatthours
+2011,ID,Idaho,1438044,151660,23120064,23271724,megawatthours,megawatthours,megawatthours,megawatthours
+2011,IA,Iowa,2821181,,45654877,45654877,megawatthours,megawatthours,megawatthours,megawatthours
+2011,HI,Hawaii,615567,0,9961653,9961653,megawatthours,megawatthours,megawatthours,megawatthours
+2011,GA,Georgia,8426869,,136371149,136371149,megawatthours,megawatthours,megawatthours,megawatthours
+2011,FL,Florida,13909155,636,225089786,225090422,megawatthours,megawatthours,megawatthours,megawatthours
+2011,DE,Delaware,709595,478,7347959,11483296,megawatthours,megawatthours,megawatthours,megawatthours
+2011,DC,District of Columbia,714461,,3066258,11562055,megawatthours,megawatthours,megawatthours,megawatthours
+2011,CT,Connecticut,1845096,18052,11365328,29858993,megawatthours,megawatthours,megawatthours,megawatthours
+2011,CO,Colorado,3303382,226232,53232053,53458285,megawatthours,megawatthours,megawatthours,megawatthours
+2011,CA,California,16186330,844917,238976375,261941700,megawatthours,megawatthours,megawatthours,megawatthours
+2011,AZ,Arizona,4631040,7795,74935850,74943645,megawatthours,megawatthours,megawatthours,megawatthours
+2011,AR,Arkansas,2961635,18864,47908965,47927829,megawatthours,megawatthours,megawatthours,megawatthours
+2011,AL,Alabama,5499347,458868,88536501,88995369,megawatthours,megawatthours,megawatthours,megawatthours
+2011,WV,West Virginia,1930356,,31238753,31238753,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MO,Missouri,5318146,0,86085117,86085117,megawatthours,megawatthours,megawatthours,megawatthours
+2010,WI,Wisconsin,4247371,,68752417,68752417,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MT,Montana,850770,,11151737,13771453,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NC,North Carolina,8427411,,136414947,136414947,megawatthours,megawatthours,megawatthours,megawatthours
+2010,ND,North Dakota,800409,,12956263,12956263,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NE,Nebraska,1844033,,29849460,29849460,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NH,New Hampshire,672764,5667,7707271,10890074,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NJ,New Jersey,4891528,170174,50311861,79179427,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NM,New Mexico,1385573,,22428344,22428344,megawatthours,megawatthours,megawatthours,megawatthours
+2010,AK,Alaska,385928,,6247038,6247038,megawatthours,megawatthours,megawatthours,megawatthours
+2010,AL,Alabama,5613291,0,90862645,90862645,megawatthours,megawatthours,megawatthours,megawatthours
+2010,AR,Arkansas,2977335,14015,48180270,48194285,megawatthours,megawatthours,megawatthours,megawatthours
+2010,AZ,Arizona,4499462,1293,72831737,72833030,megawatthours,megawatthours,megawatthours,megawatthours
+2010,CA,California,15971461,1454701,239499450,258530892,megawatthours,megawatthours,megawatthours,megawatthours
+2010,CO,Colorado,3269143,201335,52716451,52917786,megawatthours,megawatthours,megawatthours,megawatthours
+2010,CT,Connecticut,1877535,38711,13676247,30391766,megawatthours,megawatthours,megawatthours,megawatthours
+2010,DC,District of Columbia,733734,,3388490,11876995,megawatthours,megawatthours,megawatthours,megawatthours
+2010,DE,Delaware,716989,,7582539,11605932,megawatthours,megawatthours,megawatthours,megawatthours
+2010,FL,Florida,14283613,543,231209071,231209614,megawatthours,megawatthours,megawatthours,megawatthours
+2010,GA,Georgia,8690376,,140671580,140671580,megawatthours,megawatthours,megawatthours,megawatthours
+2010,HI,Hawaii,618798,3405,10013104,10016509,megawatthours,megawatthours,megawatthours,megawatthours
+2010,IA,Iowa,2807507,0,45445269,45445269,megawatthours,megawatthours,megawatthours,megawatthours
+2010,ID,Idaho,1408389,109990,22687678,22797668,megawatthours,megawatthours,megawatthours,megawatthours
+2010,IL,Illinois,8942991,464639,77425893,144760674,megawatthours,megawatthours,megawatthours,megawatthours
+2010,IN,Indiana,6548096,290720,105703656,105994376,megawatthours,megawatthours,megawatthours,megawatthours
+2010,KS,Kansas,2497099,0,40420675,40420675,megawatthours,megawatthours,megawatthours,megawatthours
+2010,KY,Kentucky,5780510,,93569426,93569426,megawatthours,megawatthours,megawatthours,megawatthours
+2010,LA,Louisiana,5256033,,85079692,85079692,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MA,Massachusetts,3528957,310740,31512202,57123422,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MD,Maryland,4036281,,36082473,65335498,megawatthours,megawatthours,megawatthours,megawatthours
+2010,ME,Maine,712395,0,151588,11531568,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MI,Michigan,6403217,484,94564763,103649219,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NV,Nevada,2086395,31617,32317262,33772595,megawatthours,megawatthours,megawatthours,megawatthours
+2010,NY,New York,8934521,232561,78887208,144623573,megawatthours,megawatthours,megawatthours,megawatthours
+2010,OH,Ohio,9522759,152811,105176986,154145418,megawatthours,megawatthours,megawatthours,megawatthours
+2010,OK,Oklahoma,3573595,,57845980,57845980,megawatthours,megawatthours,megawatthours,megawatthours
+2010,OR,Oregon,2843380,0,44525865,46025945,megawatthours,megawatthours,megawatthours,megawatthours
+2010,PA,Pennsylvania,9202661,,114787417,148963968,megawatthours,megawatthours,megawatthours,megawatthours
+2010,RI,Rhode Island,481819,,5351848,7799227,megawatthours,megawatthours,megawatthours,megawatthours
+2010,SC,South Carolina,5095386,,82479293,82479293,megawatthours,megawatthours,megawatthours,megawatthours
+2010,SD,South Dakota,701558,,11356149,11356149,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MN,Minnesota,4188514,764977,67034729,67799706,megawatthours,megawatthours,megawatthours,megawatthours
+2010,TN,Tennessee,6395329,107000,103414537,103521537,megawatthours,megawatthours,megawatthours,megawatthours
+2010,TX,Texas,22144706,5870581,352586969,358457550,megawatthours,megawatthours,megawatthours,megawatthours
+2010,WV,West Virginia,1978853,,32031803,32031803,megawatthours,megawatthours,megawatthours,megawatthours
+2010,WY,Wyoming,1057231,,17113458,17113458,megawatthours,megawatthours,megawatthours,megawatthours
+2010,US,United States,231965709,10225964,3365337951,3754841368,megawatthours,megawatthours,megawatthours,megawatthours
+2010,UT,Utah,1732496,,28044001,28044001,megawatthours,megawatthours,megawatthours,megawatthours
+2010,VA,Virginia,7030689,,113806135,113806135,megawatthours,megawatthours,megawatthours,megawatthours
+2010,VT,Vermont,345636,,5594833,5594833,megawatthours,megawatthours,megawatthours,megawatthours
+2010,WA,Washington,5583473,,88116958,90379970,megawatthours,megawatthours,megawatthours,megawatthours
+2010,MS,Mississippi,3069562,,49687166,49687166,megawatthours,megawatthours,megawatthours,megawatthours
